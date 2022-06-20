@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richgith
-- 👀 I’m interested in more and more new data for my progile projects.
+- 👀 I’m interested in doing more and more projects.
 - 🌱 I’m currently learning data analytics .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
